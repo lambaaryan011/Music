@@ -82,5 +82,4 @@ mood-music-demo/
 │       └── App.css          # Styling for the app
 ├── package.json             # Project dependencies and scripts
 ├── README.md                # Project documentation (this file)
-
-..
+thanks fro reading 
